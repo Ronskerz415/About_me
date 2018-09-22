@@ -1,0 +1,17 @@
+pwd
+cd ~/Desktop
+pwd
+ls
+mkdir Bob_marley
+cd Bob_marley
+cd Bob_marley
+mkdir Cedella_marley
+mkdir Ziggy_marley
+mkdir Ky-mani_marley
+cd cedella_marley
+mkdir Skip_marley
+cd Skip_marley
+mkdir Sm_songs
+Cd Sm_songs
+touch Lions.reggae
+touch Lifeboat.reggae
